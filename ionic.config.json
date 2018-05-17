@@ -1,0 +1,8 @@
+{
+  "name": "airtrack",
+  "app_id": "2ea4b65c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
